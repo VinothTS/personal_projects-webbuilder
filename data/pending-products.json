@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Red Rice ",
+    "description": "Red rice from the state of Andhra",
+    "category": "Rice",
+    "price": "INR 50",
+    "priceAmount": 50,
+    "priceCurrency": "INR",
+    "specifications": {
+      "Packaging": "1Kg, 5Kg, 10Kg, 25Kg , 50Kg"
+    },
+    "id": "pending-1772523345522-cyghkbm65",
+    "status": "approved",
+    "submittedAt": "2026-03-03T07:35:45.522Z",
+    "updatedAt": "2026-03-03T07:35:49.610Z"
+  },
+  {
+    "name": "Turmeric",
+    "description": "Indian Tumeric",
+    "category": "Spices",
+    "price": "INR 59.98",
+    "priceAmount": 59.98,
+    "priceCurrency": "INR",
+    "specifications": {
+      "Nature": "Organic",
+      "Medicinal property": "Anti Bacterial",
+      "Packaging": "5Kg, 10 Kg"
+    },
+    "id": "pending-1772526314609-dtwrevu9n",
+    "status": "approved",
+    "submittedAt": "2026-03-03T08:25:14.609Z",
+    "updatedAt": "2026-03-03T08:25:19.346Z"
+  }
+]

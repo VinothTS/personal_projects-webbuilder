@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  web:
+    build: .
+    ports:
+      - "3000:3000"
+    volumes:
+      # Persist data and config so changes survive container restarts
+      - ./data:/app/data
+      - ./config:/app/config
+      - ./public:/app/public
+    env_file:
+      - .env.local   # Create this file from .env.example before running
+    environment:
+      - NODE_ENV=production
+    restart: unless-stopped

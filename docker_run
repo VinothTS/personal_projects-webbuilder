@@ -1,0 +1,75 @@
+🚀 Simple 2-Step Process:
+Here's the **complete Step 1** with all details:
+
+## **STEP 1: Install Docker Desktop** (One-Time, 10-15 minutes)
+
+### 1. **Download Docker Desktop**
+   - Visit: https://www.docker.com/products/docker-desktop/
+   - Click "Download for Windows" or "Download for Mac"
+   - Wait for download to complete (~500MB)
+
+### 2. **Install Docker Desktop**
+   - **Windows:**
+     - Double-click `Docker Desktop Installer.exe`
+     - Check "Use WSL 2 instead of Hyper-V" (recommended)
+     - Click "Ok" to proceed
+     - Wait for installation (3-5 minutes)
+     - Click "Close and restart" when prompted
+     - **Computer will restart**
+   
+   - **Mac:**
+     - Double-click `Docker.dmg`
+     - Drag Docker icon to Applications folder
+     - Open Applications folder
+     - Double-click Docker
+     - Enter Mac password if prompted
+     - Click "Open" if security warning appears
+
+### 3. **Start Docker Desktop**
+   - **Windows:** Docker starts automatically after restart
+   - **Mac:** Open from Applications or Launchpad
+   - **First Launch:** 
+     - Accept license agreement
+     - Skip tutorial (optional)
+     - May ask to enable virtualization (click "Yes")
+
+### 4. **Verify Docker is Running**
+   - Look for **Docker whale icon** in system tray (Windows) or menu bar (Mac)
+   - Icon should be **steady** (not animated)
+   - If animated, wait 1-2 minutes for Docker to fully start
+   - Click icon → Should show "Docker Desktop is running"
+
+### 5. **System Requirements Check**
+   - **Windows 10/11** (64-bit) or **macOS 10.15+**
+   - **4GB RAM minimum** (8GB recommended)
+   - **5GB free disk space**
+   - **Virtualization enabled** in BIOS (usually enabled by default)
+
+---
+
+### ⚠️ Troubleshooting:
+
+**If Docker fails to start:**
+- **Windows:** 
+  - Enable WSL 2: Open PowerShell as Admin → Run `wsl --install`
+  - Restart computer
+  - Enable Virtualization in BIOS if prompted
+  
+- **Mac:**
+  - Check System Preferences → Security → Allow Docker
+  - Restart Mac if needed
+
+**Docker icon showing error:**
+- Restart Docker Desktop
+- Restart computer
+- Reinstall Docker Desktop
+
+---
+
+✅ **Once Docker shows "running"** → Proceed to Step 2!
+
+
+STEP 2: Run the Container
+Extract your ZIP file
+Double-click docker-start.bat (Windows) or docker-start.sh (Mac/Linux)
+Done! Website runs at http://localhost:3000

@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install)",
+      "Bash(ls /Users/vinoth/Downloads/personal_projects-webbuilder-main/.env*)"
+    ]
+  }
+}

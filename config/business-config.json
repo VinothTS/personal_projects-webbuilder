@@ -1,0 +1,52 @@
+{
+  "business": {
+    "name": "Vinoth Exports",
+    "tagline": "Premium food products",
+    "description": "We harvest in India for the world",
+    "logo": ""
+  },
+  "contact": {
+    "email": "vinoth@vinothexports.com",
+    "phone": "9500049307",
+    "whatsapp": "9500049307",
+    "address": {
+      "street": "Madurai",
+      "city": "Madurai",
+      "state": "Tamil Nadu",
+      "zip": "625001",
+      "country": "India"
+    },
+    "social": {
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "twitter": ""
+    }
+  },
+  "theme": {
+    "style": "vibrant",
+    "primaryColor": "#2d5016",
+    "secondaryColor": "#8fbc5a",
+    "accentColor": "#f4a460",
+    "layout": "masonry"
+  },
+  "features": {
+    "showPrices": true,
+    "showSpecifications": true,
+    "enableInquiry": true,
+    "showCategories": true,
+    "enableSearch": true
+  },
+  "categories": [
+    "Rice",
+    "Pulses",
+    "Tea",
+    "Fish Products",
+    "Flowers"
+  ],
+  "deployment": {
+    "platform": "vercel",
+    "domain": "",
+    "autoDeployOnUpdate": false
+  }
+}

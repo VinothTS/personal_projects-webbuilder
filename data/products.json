@@ -1,0 +1,155 @@
+[
+  {
+    "id": "1772478952258-1",
+    "name": "Premium Basmati Rice",
+    "description": "Long-grain aged basmati rice from Punjab, India. Perfect for biryani and pilaf. Aromatic and fluffy texture.",
+    "category": "Rice",
+    "specifications": {
+      "Origin": "Punjab, India",
+      "Grain Length": "8.3mm",
+      "Aging": "2 years",
+      "Packaging": "5kg, 10kg, 25kg bags"
+    },
+    "createdAt": "2026-03-02T19:15:52.258Z",
+    "updatedAt": "2026-03-02T19:15:52.258Z"
+  },
+  {
+    "id": "1772478952258-2",
+    "name": "Organic Green Tea",
+    "description": "Premium organic green tea from Darjeeling. Rich in antioxidants with a delicate, fresh flavor. First flush harvest.",
+    "category": "Tea",
+    "specifications": {
+      "Origin": "Darjeeling, India",
+      "Type": "First Flush",
+      "Certification": "Organic",
+      "Packaging": "100g, 250g, 500g"
+    },
+    "createdAt": "2026-03-02T19:15:52.258Z",
+    "updatedAt": "2026-03-02T19:15:52.258Z"
+  },
+  {
+    "id": "1772478952258-3",
+    "name": "Red Lentils",
+    "description": "High-quality split red lentils (Masoor Dal). Protein-rich, quick-cooking, and perfect for soups, curries, and stews.",
+    "category": "Pulses",
+    "specifications": {
+      "Origin": "India",
+      "Type": "Split, Polished",
+      "Protein Content": "25%",
+      "Packaging": "1kg, 5kg, 20kg bags"
+    },
+    "createdAt": "2026-03-02T19:15:52.258Z",
+    "updatedAt": "2026-03-02T19:15:52.258Z"
+  },
+  {
+    "id": "1772478952258-4",
+    "name": "Premium Dried Fish",
+    "description": "Naturally dried fish fillets, rich in omega-3. Traditional processing method preserves nutrients and flavor.",
+    "category": "Fish Products",
+    "specifications": {
+      "Type": "Mixed varieties",
+      "Processing": "Sun-dried",
+      "Protein": "High",
+      "Packaging": "500g, 1kg vacuum sealed"
+    },
+    "createdAt": "2026-03-02T19:15:52.258Z",
+    "updatedAt": "2026-03-02T19:15:52.258Z"
+  },
+  {
+    "id": "1772478952258-5",
+    "name": "Fresh Cut Roses",
+    "description": "Premium long-stem roses in various colors. Carefully cultivated and hand-picked. Perfect for events and bouquets.",
+    "category": "Flowers",
+    "specifications": {
+      "Colors": "Red, Pink, White, Yellow",
+      "Stem Length": "60-80cm",
+      "Freshness": "7-10 days",
+      "Packaging": "Bunches of 12, 24, 50"
+    },
+    "createdAt": "2026-03-02T19:15:52.258Z",
+    "updatedAt": "2026-03-02T19:15:52.258Z"
+  },
+  {
+    "id": "1772478952258-6",
+    "name": "Jasmine Rice",
+    "description": "Fragrant Thai jasmine rice with a naturally sweet aroma. Soft, sticky texture when cooked. Grade A quality.",
+    "category": "Rice",
+    "specifications": {
+      "Origin": "Thailand",
+      "Grade": "Grade A",
+      "Aroma": "Natural jasmine",
+      "Packaging": "5kg, 10kg, 20kg bags"
+    },
+    "createdAt": "2026-03-02T19:15:52.258Z",
+    "updatedAt": "2026-03-02T19:15:52.258Z"
+  },
+  {
+    "id": "1772478952258-7",
+    "name": "Assam Black Tea",
+    "description": "Bold and malty Assam black tea. Full-bodied with rich flavor. Perfect for morning brew and milk tea.",
+    "category": "Tea",
+    "specifications": {
+      "Origin": "Assam, India",
+      "Grade": "FTGFOP1",
+      "Caffeine": "High",
+      "Packaging": "100g, 250g, 1kg"
+    },
+    "createdAt": "2026-03-02T19:15:52.258Z",
+    "updatedAt": "2026-03-02T19:15:52.258Z"
+  },
+  {
+    "id": "1772478952258-8",
+    "name": "Chickpeas (Kabuli Chana)",
+    "description": "Premium quality Kabuli chickpeas. Large, creamy-white grains. Rich in protein and fiber. Perfect for hummus and curries.",
+    "category": "Pulses",
+    "specifications": {
+      "Origin": "India",
+      "Type": "Kabuli (White)",
+      "Size": "8-9mm",
+      "Packaging": "1kg, 5kg, 25kg bags"
+    },
+    "createdAt": "2026-03-02T19:15:52.258Z",
+    "updatedAt": "2026-03-02T19:15:52.258Z"
+  },
+  {
+    "id": "1772479029956-0zyzznfcg",
+    "name": "Basmati Rice",
+    "description": "premium quality long-grain rice from India",
+    "category": "Rice",
+    "price": "INR 89.99",
+    "priceAmount": 89.99,
+    "priceCurrency": "INR",
+    "createdAt": "2026-03-02T19:17:09.954Z",
+    "updatedAt": "2026-03-03T08:23:00.033Z"
+  },
+  {
+    "id": "1772523349609-sz4vmm251",
+    "name": "Red Rice ",
+    "description": "Red rice from the state of Andhra",
+    "category": "Rice",
+    "price": "INR 50",
+    "priceAmount": 50,
+    "priceCurrency": "INR",
+    "specifications": {
+      "Packaging": "1Kg, 5Kg, 10Kg, 25Kg , 50Kg"
+    },
+    "createdAt": "2026-03-03T07:35:49.609Z",
+    "updatedAt": "2026-03-03T07:35:49.609Z"
+  },
+  {
+    "id": "1772526319345-ajv915sst",
+    "name": "Turmeric",
+    "description": "Indian Tumeric",
+    "category": "Spices",
+    "price": "INR 59.98",
+    "priceAmount": 59.98,
+    "priceCurrency": "INR",
+    "specifications": {
+      "Nature": "Organic",
+      "Medicinal property": "Anti Bacterial",
+      "Packaging": "5Kg, 10 Kg"
+    },
+    "createdAt": "2026-03-03T08:25:19.345Z",
+    "updatedAt": "2026-03-03T08:25:19.345Z"
+  }
+]
